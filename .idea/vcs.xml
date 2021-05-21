@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Drum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Janken" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PrimeQuiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Profile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Renda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app-jam-noodle2290" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/curry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/extend count" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/soundapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/word" vcs="Git" />
+  </component>
+</project>
